@@ -1,7 +1,7 @@
-# My Portfolio 🔥
+# 👨‍💻 My Portfolio
 
-[https://blackraspberryyy.github.io/](https://blackraspberryyy.github.io/)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-vue.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-responsibility.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-A simple site where I showcase what I got. That's just it, I guess... Move along.
-
-Made with Vuetify and Nuxt.
+Check my website here: 👉 [https://blackraspberryyy.github.io/](https://blackraspberryyy.github.io/)
