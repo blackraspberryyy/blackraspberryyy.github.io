@@ -1,7 +1,6 @@
 {
   "name": "my-portfolio",
   "short_name": "my-portfolio",
-  "description": "[https://blackraspberryyy.github.io/](https://blackraspberryyy.github.io/)",
   "icons": [
     {
       "src": "/_nuxt/icons/icon_64x64.a325d6.png",
